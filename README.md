@@ -12,4 +12,4 @@ The app shows how many hours will you have to work to buy a particular item of a
 
 Note*: The app has a Unit Test created
 
-I am still a learner, any suggestions would be appreciated. Thank you.
+I am still a learner, any suggestions would be appreciated at email id - sanchitalachke@gmail.com. Thank you.
